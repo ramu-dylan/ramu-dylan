@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ramu-dylan
+- 👀 I’m interested in bioinformatics and biomedical informatics.
+- 🌱 I'm learning bioinformatics data skills and R programming language.
+- 💞️ I’m looking to collaborate on projects that are in line with my interests.
